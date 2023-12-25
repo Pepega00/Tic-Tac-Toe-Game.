@@ -1,0 +1,11 @@
+[25.12.2023 09:05:53] Installed port: 8080
+[25.12.2023 09:05:53] Server is running...
+[25.12.2023 09:06:03] Unknown user try to connect to the server!
+[25.12.2023 09:06:15] admin success connected to the server!
+[25.12.2023 09:06:15] admin waiting other player!
+[25.12.2023 09:06:28] mark success connected to the server!
+[25.12.2023 09:06:28] First move is mark
+[25.12.2023 09:06:48] mark success connected to the server!
+[25.12.2023 09:06:48] mark waiting other player!
+[25.12.2023 09:06:58] admin success connected to the server!
+[25.12.2023 09:06:58] First move is admin

@@ -1,0 +1,345 @@
+[25.12.2023 07:54:39] Installed port: 8080
+[25.12.2023 07:54:39] Succecss connect to server
+[25.12.2023 07:54:39] Installed time for move: 20
+[25.12.2023 07:54:41] The client has logged into the game
+[25.12.2023 07:54:45] admin successfully connect
+[25.12.2023 07:54:45] Client wait other player!
+[25.12.2023 07:54:47] Installed port: 8080
+[25.12.2023 07:54:47] Succecss connect to server
+[25.12.2023 07:54:47] Installed time for move: 20
+[25.12.2023 07:54:49] The client has logged into the game
+[25.12.2023 07:54:57] mark successfully connect
+[25.12.2023 07:54:57] Game statred! First move is admin
+[25.12.2023 07:54:57] Game statred! First move is admin
+[25.12.2023 07:55:51] Installed port: 8080
+[25.12.2023 07:55:51] Succecss connect to server
+[25.12.2023 07:55:51] Installed time for move: 20
+[25.12.2023 07:55:52] The client has logged into the game
+[25.12.2023 07:55:55] admin successfully connect
+[25.12.2023 07:55:55] Client wait other player!
+[25.12.2023 07:55:58] Installed port: 8080
+[25.12.2023 07:55:58] Succecss connect to server
+[25.12.2023 07:55:58] Installed time for move: 20
+[25.12.2023 07:55:59] The client has logged into the game
+[25.12.2023 07:56:01] mark successfully connect
+[25.12.2023 07:56:01] Game statred! First move is admin
+[25.12.2023 07:56:01] Game statred! First move is admin
+[25.12.2023 08:01:38] Installed port: 8080
+[25.12.2023 08:01:38] Succecss connect to server
+[25.12.2023 08:01:38] Installed time for move: 20
+[25.12.2023 08:01:40] The client has logged into the game
+[25.12.2023 08:01:42] admin successfully connect
+[25.12.2023 08:01:42] Client wait other player!
+[25.12.2023 08:01:44] Installed port: 8080
+[25.12.2023 08:01:44] Succecss connect to server
+[25.12.2023 08:01:44] Installed time for move: 20
+[25.12.2023 08:01:45] The client has logged into the game
+[25.12.2023 08:01:47] mark successfully connect
+[25.12.2023 08:01:47] Game statred! First move is admin
+[25.12.2023 08:01:47] Game statred! First move is admin
+[25.12.2023 08:02:12] Installed port: 8080
+[25.12.2023 08:02:12] Succecss connect to server
+[25.12.2023 08:02:12] Installed time for move: 20
+[25.12.2023 08:02:14] The client has logged into the game
+[25.12.2023 08:02:17] admin successfully connect
+[25.12.2023 08:02:17] Client wait other player!
+[25.12.2023 08:04:47] Installed port: 8080
+[25.12.2023 08:04:47] Succecss connect to server
+[25.12.2023 08:04:47] Installed time for move: 20
+[25.12.2023 08:04:49] The client has logged into the game
+[25.12.2023 08:04:51] admin successfully connect
+[25.12.2023 08:04:51] Client wait other player!
+[25.12.2023 08:04:58] Installed port: 8080
+[25.12.2023 08:04:58] Succecss connect to server
+[25.12.2023 08:04:58] Installed time for move: 20
+[25.12.2023 08:04:59] The client has logged into the game
+[25.12.2023 08:05:00] mark successfully connect
+[25.12.2023 08:05:00] Game statred! First move is admin
+[25.12.2023 08:05:00] Game statred! First move is admin
+[25.12.2023 08:06:59] Installed port: 8080
+[25.12.2023 08:06:59] Succecss connect to server
+[25.12.2023 08:06:59] Installed time for move: 20
+[25.12.2023 08:07:00] The client has logged into the game
+[25.12.2023 08:07:03] admin successfully connect
+[25.12.2023 08:07:03] Client wait other player!
+[25.12.2023 08:07:09] Installed port: 8080
+[25.12.2023 08:07:09] Succecss connect to server
+[25.12.2023 08:07:09] Installed time for move: 20
+[25.12.2023 08:07:11] The client has logged into the game
+[25.12.2023 08:07:12] mark successfully connect
+[25.12.2023 08:07:12] Game statred! First move is mark
+[25.12.2023 08:07:12] Game statred! First move is mark
+[25.12.2023 08:08:27] Installed port: 8080
+[25.12.2023 08:08:27] Succecss connect to server
+[25.12.2023 08:08:27] Installed time for move: 20
+[25.12.2023 08:08:29] The client has logged into the game
+[25.12.2023 08:08:32] admin successfully connect
+[25.12.2023 08:08:32] Client wait other player!
+[25.12.2023 08:08:35] Installed port: 8080
+[25.12.2023 08:08:35] Succecss connect to server
+[25.12.2023 08:08:35] Installed time for move: 20
+[25.12.2023 08:08:36] The client has logged into the game
+[25.12.2023 08:08:38] mark successfully connect
+[25.12.2023 08:08:38] Game statred! First move is mark
+[25.12.2023 08:08:38] Game statred! First move is mark
+[25.12.2023 08:10:09] Installed port: 8080
+[25.12.2023 08:10:09] Succecss connect to server
+[25.12.2023 08:10:09] Installed time for move: 20
+[25.12.2023 08:10:10] The client has logged into the game
+[25.12.2023 08:10:12] admin successfully connect
+[25.12.2023 08:10:12] Client wait other player!
+[25.12.2023 08:10:14] Installed port: 8080
+[25.12.2023 08:10:14] Succecss connect to server
+[25.12.2023 08:10:14] Installed time for move: 20
+[25.12.2023 08:10:15] The client has logged into the game
+[25.12.2023 08:10:18] mark successfully connect
+[25.12.2023 08:10:18] Game statred! First move is mark
+[25.12.2023 08:10:18] Game statred! First move is mark
+[25.12.2023 08:10:39] Installed port: 8080
+[25.12.2023 08:10:39] Succecss connect to server
+[25.12.2023 08:10:39] Installed time for move: 20
+[25.12.2023 08:10:40] The client has logged into the game
+[25.12.2023 08:10:42] admin successfully connect
+[25.12.2023 08:10:42] Client wait other player!
+[25.12.2023 08:10:44] Installed port: 8080
+[25.12.2023 08:10:44] Succecss connect to server
+[25.12.2023 08:10:44] Installed time for move: 20
+[25.12.2023 08:10:46] The client has logged into the game
+[25.12.2023 08:10:47] mark successfully connect
+[25.12.2023 08:10:47] Game statred! First move is mark
+[25.12.2023 08:10:47] Game statred! First move is mark
+[25.12.2023 08:28:35] Installed port: 8080
+[25.12.2023 08:28:35] Succecss connect to server
+[25.12.2023 08:28:35] Installed time for move: 20
+[25.12.2023 08:28:36] The client has logged into the game
+[25.12.2023 08:28:39] admin successfully connect
+[25.12.2023 08:28:39] Client wait other player!
+[25.12.2023 08:29:04] Installed port: 8080
+[25.12.2023 08:29:04] Succecss connect to server
+[25.12.2023 08:29:04] Installed time for move: 20
+[25.12.2023 08:29:05] The client has logged into the game
+[25.12.2023 08:29:07] admin successfully connect
+[25.12.2023 08:29:07] Client wait other player!
+[25.12.2023 08:39:48] Installed port: 8080
+[25.12.2023 08:39:48] Succecss connect to server
+[25.12.2023 08:39:48] Installed time for move: 20
+[25.12.2023 08:39:52] The client has logged into the game
+[25.12.2023 08:40:41] Installed port: 8080
+[25.12.2023 08:40:41] Succecss connect to server
+[25.12.2023 08:40:41] Installed time for move: 20
+[25.12.2023 08:40:53] The client has logged into the game
+[25.12.2023 08:40:53]  successfully connect
+[25.12.2023 08:40:53] Client wait other player!
+[25.12.2023 08:41:04] Installed port: 8080
+[25.12.2023 08:41:04] Succecss connect to server
+[25.12.2023 08:41:04] Installed time for move: 20
+[25.12.2023 08:41:05] The client has logged into the game
+[25.12.2023 08:41:22] Installed port: 8080
+[25.12.2023 08:41:22] Succecss connect to server
+[25.12.2023 08:41:22] Installed time for move: 20
+[25.12.2023 08:41:23] The client has logged into the game
+[25.12.2023 08:41:23]  successfully connect
+[25.12.2023 08:41:23] Client admin is also connected to server!
+
+[25.12.2023 08:42:17] Installed port: 8080
+[25.12.2023 08:42:17] Succecss connect to server
+[25.12.2023 08:42:17] Installed time for move: 20
+[25.12.2023 08:42:18] The client has logged into the game
+[25.12.2023 08:42:21]  successfully connect
+[25.12.2023 08:42:21] Client wait other player!
+[25.12.2023 08:42:25] Installed port: 8080
+[25.12.2023 08:42:25] Succecss connect to server
+[25.12.2023 08:42:25] Installed time for move: 20
+[25.12.2023 08:42:27] The client has logged into the game
+[25.12.2023 08:42:30]  successfully connect
+[25.12.2023 08:42:59] Installed port: 8080
+[25.12.2023 08:42:59] Succecss connect to server
+[25.12.2023 08:42:59] Installed time for move: 20
+[25.12.2023 08:43:01] The client has logged into the game
+[25.12.2023 08:43:03]  successfully connect
+[25.12.2023 08:43:03] Game statred! First move is mark
+[25.12.2023 08:43:03] Game statred! First move is mark
+[25.12.2023 08:43:17] Installed port: 8080
+[25.12.2023 08:43:17] Succecss connect to server
+[25.12.2023 08:43:17] Installed time for move: 20
+[25.12.2023 08:43:19] The client has logged into the game
+[25.12.2023 08:43:21]  successfully connect
+[25.12.2023 08:43:21] Client wait other player!
+[25.12.2023 08:43:24] Installed port: 8080
+[25.12.2023 08:43:24] Succecss connect to server
+[25.12.2023 08:43:24] Installed time for move: 20
+[25.12.2023 08:43:26] The client has logged into the game
+[25.12.2023 08:43:29]  successfully connect
+[25.12.2023 08:45:46] Installed port: 8080
+[25.12.2023 08:45:46] Succecss connect to server
+[25.12.2023 08:45:46] Installed time for move: 20
+[25.12.2023 08:45:47] The client has logged into the game
+[25.12.2023 08:45:50] admin successfully connect
+[25.12.2023 08:45:50] Client wait other player!
+[25.12.2023 08:45:52] Installed port: 8080
+[25.12.2023 08:45:52] Succecss connect to server
+[25.12.2023 08:45:52] Installed time for move: 20
+[25.12.2023 08:45:55] The client has logged into the game
+[25.12.2023 08:45:57] admin successfully connect
+[25.12.2023 08:46:57] Installed port: 8080
+[25.12.2023 08:46:57] Succecss connect to server
+[25.12.2023 08:46:57] Installed time for move: 20
+[25.12.2023 08:46:59] The client has logged into the game
+[25.12.2023 08:47:00] Unknown user try to connect to the server!
+[25.12.2023 08:47:04] Installed port: 8080
+[25.12.2023 08:47:04] Succecss connect to server
+[25.12.2023 08:47:04] Installed time for move: 20
+[25.12.2023 08:47:12] The client has logged into the game
+[25.12.2023 08:47:14] Unknown user try to connect to the server!
+[25.12.2023 08:47:56] Installed port: 8080
+[25.12.2023 08:47:56] Succecss connect to server
+[25.12.2023 08:47:56] Installed time for move: 20
+[25.12.2023 08:47:57] The client has logged into the game
+[25.12.2023 08:48:47] Invalid message from server on authorize client
+[25.12.2023 08:51:26] Installed port: 8080
+[25.12.2023 08:51:26] Succecss connect to server
+[25.12.2023 08:51:26] Installed time for move: 20
+[25.12.2023 08:51:28] The client has logged into the game
+[25.12.2023 08:51:28] admin successfully connect
+[25.12.2023 08:51:28] Client wait other player!
+[25.12.2023 08:51:35] Installed port: 8080
+[25.12.2023 08:51:35] Succecss connect to server
+[25.12.2023 08:51:35] Installed time for move: 20
+[25.12.2023 08:51:36] The client has logged into the game
+[25.12.2023 08:51:36] admin successfully connect
+[25.12.2023 08:52:04] Installed port: 8080
+[25.12.2023 08:52:04] Succecss connect to server
+[25.12.2023 08:52:04] Installed time for move: 20
+[25.12.2023 08:52:05] The client has logged into the game
+[25.12.2023 08:52:05] admin successfully connect
+[25.12.2023 08:52:05] Client wait other player!
+[25.12.2023 08:52:14] Installed port: 8080
+[25.12.2023 08:52:14] Succecss connect to server
+[25.12.2023 08:52:14] Installed time for move: 20
+[25.12.2023 08:52:15] The client has logged into the game
+[25.12.2023 08:52:20] admin successfully connect
+[25.12.2023 08:52:20] Client admin is also connected to server!
+
+[25.12.2023 08:53:46] Installed port: 8080
+[25.12.2023 08:53:46] Succecss connect to server
+[25.12.2023 08:53:46] Installed time for move: 20
+[25.12.2023 08:53:47] The client has logged into the game
+[25.12.2023 08:53:50] admin successfully connect
+[25.12.2023 08:53:50] Client wait other player!
+[25.12.2023 08:53:53] Installed port: 8080
+[25.12.2023 08:53:53] Succecss connect to server
+[25.12.2023 08:53:53] Installed time for move: 20
+[25.12.2023 08:53:54] The client has logged into the game
+[25.12.2023 08:53:57] admin successfully connect
+[25.12.2023 08:57:25] Installed port: 8080
+[25.12.2023 08:57:25] Succecss connect to server
+[25.12.2023 08:57:25] Installed time for move: 20
+[25.12.2023 08:57:27] The client has logged into the game
+[25.12.2023 08:58:29] Installed port: 8080
+[25.12.2023 08:58:29] Succecss connect to server
+[25.12.2023 08:58:29] Installed time for move: 20
+[25.12.2023 08:58:31] The client has logged into the game
+[25.12.2023 08:58:31] admin successfully connect
+[25.12.2023 08:58:31] Client wait other player!
+[25.12.2023 08:58:42] Installed port: 8080
+[25.12.2023 08:58:42] Succecss connect to server
+[25.12.2023 08:58:42] Installed time for move: 20
+[25.12.2023 08:58:44] The client has logged into the game
+[25.12.2023 08:58:45] mark successfully connect
+[25.12.2023 08:58:45] Game statred! First move is mark
+[25.12.2023 08:58:45] Game statred! First move is mark
+[25.12.2023 08:58:56] Installed port: 8080
+[25.12.2023 08:58:56] Succecss connect to server
+[25.12.2023 08:58:56] Installed time for move: 20
+[25.12.2023 08:58:57] The client has logged into the game
+[25.12.2023 08:58:59] mark successfully connect
+[25.12.2023 08:58:59] Client wait other player!
+[25.12.2023 08:59:05] Installed port: 8080
+[25.12.2023 08:59:05] Succecss connect to server
+[25.12.2023 08:59:05] Installed time for move: 20
+[25.12.2023 08:59:07] The client has logged into the game
+[25.12.2023 08:59:07] admin successfully connect
+[25.12.2023 08:59:07] Game statred! First move is mark
+[25.12.2023 08:59:07] Game statred! First move is mark
+[25.12.2023 08:59:36] Installed port: 8080
+[25.12.2023 08:59:36] Succecss connect to server
+[25.12.2023 08:59:36] Installed time for move: 20
+[25.12.2023 08:59:38] The client has logged into the game
+[25.12.2023 08:59:38] Unknown user try to connect to the server!
+[25.12.2023 09:00:41] Installed port: 8080
+[25.12.2023 09:00:41] Succecss connect to server
+[25.12.2023 09:00:41] Installed time for move: 20
+[25.12.2023 09:00:43] The client has logged into the game
+[25.12.2023 09:00:43] admin successfully connect
+[25.12.2023 09:00:43] Client wait other player!
+[25.12.2023 09:01:04] Installed port: 8080
+[25.12.2023 09:01:04] Succecss connect to server
+[25.12.2023 09:01:04] Installed time for move: 20
+[25.12.2023 09:01:05] The client has logged into the game
+[25.12.2023 09:01:15] Installed port: 8080
+[25.12.2023 09:01:15] Succecss connect to server
+[25.12.2023 09:01:15] Installed time for move: 20
+[25.12.2023 09:01:16] The client has logged into the game
+[25.12.2023 09:01:16] admin successfully connect
+[25.12.2023 09:01:16] Client wait other player!
+[25.12.2023 09:01:30] Installed port: 8080
+[25.12.2023 09:01:30] Succecss connect to server
+[25.12.2023 09:01:30] Installed time for move: 20
+[25.12.2023 09:01:32] The client has logged into the game
+[25.12.2023 09:01:34] mark successfully connect
+[25.12.2023 09:01:34] Game statred! First move is admin
+[25.12.2023 09:01:34] Game statred! First move is admin
+[25.12.2023 09:01:40] Installed port: 8080
+[25.12.2023 09:01:40] Succecss connect to server
+[25.12.2023 09:01:40] Installed time for move: 20
+[25.12.2023 09:01:41] The client has logged into the game
+[25.12.2023 09:01:43] mark successfully connect
+[25.12.2023 09:01:43] Client wait other player!
+[25.12.2023 09:01:47] Installed port: 8080
+[25.12.2023 09:01:47] Succecss connect to server
+[25.12.2023 09:01:47] Installed time for move: 20
+[25.12.2023 09:01:49] The client has logged into the game
+[25.12.2023 09:01:53] Installed port: 8080
+[25.12.2023 09:01:53] Succecss connect to server
+[25.12.2023 09:01:53] Installed time for move: 20
+[25.12.2023 09:01:54] The client has logged into the game
+[25.12.2023 09:05:09] Installed port: 8080
+[25.12.2023 09:05:09] Succecss connect to server
+[25.12.2023 09:05:09] Installed time for move: 20
+[25.12.2023 09:05:11] The client has logged into the game
+[25.12.2023 09:05:13] mark successfully connect
+[25.12.2023 09:05:13] Client wait other player!
+[25.12.2023 09:05:23] Installed port: 8080
+[25.12.2023 09:05:23] Succecss connect to server
+[25.12.2023 09:05:23] Installed time for move: 20
+[25.12.2023 09:05:24] The client has logged into the game
+[25.12.2023 09:05:56] Installed port: 8080
+[25.12.2023 09:05:56] Succecss connect to server
+[25.12.2023 09:05:56] Installed time for move: 20
+[25.12.2023 09:05:58] The client has logged into the game
+[25.12.2023 09:06:14] Installed port: 8080
+[25.12.2023 09:06:14] Succecss connect to server
+[25.12.2023 09:06:14] Installed time for move: 20
+[25.12.2023 09:06:15] The client has logged into the game
+[25.12.2023 09:06:15] admin successfully connect
+[25.12.2023 09:06:15] Client wait other player!
+[25.12.2023 09:06:24] Installed port: 8080
+[25.12.2023 09:06:24] Succecss connect to server
+[25.12.2023 09:06:24] Installed time for move: 20
+[25.12.2023 09:06:25] The client has logged into the game
+[25.12.2023 09:06:28] mark successfully connect
+[25.12.2023 09:06:28] Game statred! First move is mark
+[25.12.2023 09:06:28] Game statred! First move is mark
+[25.12.2023 09:06:43] Installed port: 8080
+[25.12.2023 09:06:43] Succecss connect to server
+[25.12.2023 09:06:43] Installed time for move: 20
+[25.12.2023 09:06:44] The client has logged into the game
+[25.12.2023 09:06:48] mark successfully connect
+[25.12.2023 09:06:48] Client wait other player!
+[25.12.2023 09:06:57] Installed port: 8080
+[25.12.2023 09:06:57] Succecss connect to server
+[25.12.2023 09:06:57] Installed time for move: 20
+[25.12.2023 09:06:58] The client has logged into the game
+[25.12.2023 09:06:58] admin successfully connect
+[25.12.2023 09:06:58] Game statred! First move is admin
+[25.12.2023 09:06:58] Game statred! First move is admin
