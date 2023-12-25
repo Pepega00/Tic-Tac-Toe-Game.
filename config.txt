@@ -1,8 +1,0 @@
-port: 8080
-time_for_move: 20
-FergeS 123
-Mark 2
-Hasbik Mal
-Admin Admin
-Dimon ITMO
-SPbU OneLove 
